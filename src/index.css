@@ -1,0 +1,8 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    @apply bg-[#1a1b26] text-[#c0caf5] font-mono;
+  }
+}
+
